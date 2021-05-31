@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Garamond Premiere Pro';
+    src: url('../fonts/subset-GaramondPremrPro-Smbd.woff2') format('woff2'),
+        url('../fonts/subset-GaramondPremrPro-Smbd.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Garamond Premier Pro';
+    src: url('../fonts/subset-GaramondPremrPro-SmbdIt.woff2') format('woff2'),
+        url('../fonts/subset-GaramondPremrPro-SmbdIt.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Garamond Premiere Pro';
+    src: url('../fonts/subset-GaramondPremrPro.woff2') format('woff2'),
+        url('../fonts/subset-GaramondPremrPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Garamond Premier Pro';
+    src: url('../fonts/subset-GaramondPremrPro-It.woff2') format('woff2'),
+        url('../fonts/subset-GaramondPremrPro-It.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
